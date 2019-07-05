@@ -1,0 +1,85 @@
+/**
+ * 1. GENERAL
+ * 2. BLOCKS
+ *  2.1. TaskList
+ *  2.2. Modal
+ * 3. ELEMENTS
+ *  3.1. Icons
+ **/
+/* === 1. GENERAL === */
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-attachment: fixed; }
+
+.content {
+  background-color: rgba(255, 255, 255, 0.9);
+  margin-top: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em; }
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: 'Nixie One', cursive; }
+
+h3 {
+  font-size: 1.3em; }
+
+a:hover, a:focus {
+  text-decoration: none; }
+
+p.text-right {
+  text-align: right; }
+
+/* === 2. BLOCKS === */
+/* 2.1. TaskList */
+#taskList > p {
+  font-family: 'Nixie One', cursive;
+  font-size: 1.5em; }
+
+/* 2.2. Modal */
+.some-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4); }
+
+.some-modal-content {
+  background-color: #fff;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%; }
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold; }
+  .close:hover, .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer; }
+
+/* === 3. ELEMENTS === */
+/* 3.1. Icons */
+#taskList .fa {
+  display: inline;
+  font-size: 18px;
+  margin-right: 10px;
+  cursor: pointer; }
+  #taskList .fa.fa-check-square-o {
+    color: #3b9906; }
+    #taskList .fa.fa-check-square-o:hover {
+      color: #000; }
+  #taskList .fa.fa-times {
+    color: #c10000;
+    float: right;
+    margin-top: 5px; }
+
+/*# sourceMappingURL=style.css.map */
