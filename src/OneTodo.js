@@ -18,7 +18,7 @@ export default class OneTodo extends React.Component {
             <p>
                 <i onClick={this.handleClick} className={checkIcon} aria-hidden="true" title={checkTitle}></i>
                 {this.props.thisTodo.name}
-                <i className="fa fa-times" onClick="" aria-hidden="true" title="Delete this todo"></i>
+                <i className="fa fa-times" aria-hidden="true" title="Delete this todo"></i>
             </p>
         )
     }

@@ -22,9 +22,9 @@ class ListTodo extends React.Component {
 
         return (
             <div id="taskList">
-                <p className="text-right">
+                <div className="text-right">
                     <AddOneTodo/>
-                </p>
+                </div>
                 {rows}
             </div>
         );
@@ -36,7 +36,11 @@ class PageView extends React.Component {
     constructor() {
         super();
         this.state = {
-            todoList: TEST
+            todoList: [
+                {id: 0, name: "Task n°1", isDone: false},
+                {id: 1, name: "Task n°2", isDone: true},
+                {id: 2, name: "Task n°3", isDone: false},
+            ]
         }
     }
 
@@ -61,12 +65,6 @@ class PageView extends React.Component {
         )
     }
 }
-
-var TEST = [
-    {id: 0, name: "Task n°1", isDone: false},
-    {id: 1, name: "Task n°2", isDone: true},
-    {id: 2, name: "Task n°3", isDone: false},
-];
 
 ReactDOM.render(
     <PageView/>,

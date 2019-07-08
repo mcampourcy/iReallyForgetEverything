@@ -28,7 +28,7 @@ export default class AddOneTodo extends React.Component {
 		return (
 			<div>
 				<a href="#addModal" className="btn btn-outline-info" onClick={this.handleClick} id="addTodo">
-					<i className="fa fa-plus" aria-hidden="true"></i> Add a Todo
+					<i className="fa fa-plus" aria-hidden="true" /> Add a Todo
 				</a>
 				<div id="addModal" className="some-modal">
 					<div className="some-modal-content">
