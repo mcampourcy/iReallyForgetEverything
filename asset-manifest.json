@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.js": "/iReallyForgetEverything/static/js/main.a8af67a4.chunk.js",
-    "main.js.map": "/iReallyForgetEverything/static/js/main.a8af67a4.chunk.js.map",
+    "main.css": "/iReallyForgetEverything/static/css/main.55c829ef.chunk.css",
+    "main.js": "/iReallyForgetEverything/static/js/main.24690889.chunk.js",
+    "main.js.map": "/iReallyForgetEverything/static/js/main.24690889.chunk.js.map",
     "runtime~main.js": "/iReallyForgetEverything/static/js/runtime~main.965d3a5e.js",
     "runtime~main.js.map": "/iReallyForgetEverything/static/js/runtime~main.965d3a5e.js.map",
     "static/js/2.2668f2aa.chunk.js": "/iReallyForgetEverything/static/js/2.2668f2aa.chunk.js",
     "static/js/2.2668f2aa.chunk.js.map": "/iReallyForgetEverything/static/js/2.2668f2aa.chunk.js.map",
     "index.html": "/iReallyForgetEverything/index.html",
-    "precache-manifest.d9162ec7c05fa1ebe5eeb0bf1c58a9af.js": "/iReallyForgetEverything/precache-manifest.d9162ec7c05fa1ebe5eeb0bf1c58a9af.js",
-    "service-worker.js": "/iReallyForgetEverything/service-worker.js"
+    "precache-manifest.7bacda9ce898046ffe634aecc1aa7528.js": "/iReallyForgetEverything/precache-manifest.7bacda9ce898046ffe634aecc1aa7528.js",
+    "service-worker.js": "/iReallyForgetEverything/service-worker.js",
+    "static/css/main.55c829ef.chunk.css.map": "/iReallyForgetEverything/static/css/main.55c829ef.chunk.css.map",
+    "static/media/style.css": "/iReallyForgetEverything/static/media/background.8eaa62ca.jpg"
   }
 }
