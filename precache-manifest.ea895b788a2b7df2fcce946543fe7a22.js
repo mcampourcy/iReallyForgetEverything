@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b749866e1314daa03ef43a88b7b3b010",
+    "revision": "df376e5c28cdcbe76da4e4c25c170185",
     "url": "/mcampourcy/iReallyForgetEverything/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mcampourcy/iReallyForgetEverything/static/js/2.2668f2aa.chunk.js"
   },
   {
-    "revision": "fc5876d0d491fd33198c",
-    "url": "/mcampourcy/iReallyForgetEverything/static/js/main.89e6e245.chunk.js"
+    "revision": "1d2ba4bf1f7d6aa32f59",
+    "url": "/mcampourcy/iReallyForgetEverything/static/js/main.b63f3d96.chunk.js"
   },
   {
     "revision": "a07611b7b0d28a875002",
