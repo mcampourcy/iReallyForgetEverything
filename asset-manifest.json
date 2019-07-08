@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.a8af67a4.chunk.js",
-    "main.js.map": "/static/js/main.a8af67a4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2668f2aa.chunk.js": "/static/js/2.2668f2aa.chunk.js",
-    "static/js/2.2668f2aa.chunk.js.map": "/static/js/2.2668f2aa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.04955b1aa4fdf4a5c5d62aeb607b5d19.js": "/precache-manifest.04955b1aa4fdf4a5c5d62aeb607b5d19.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/iReallyForgetEverything/static/js/main.a8af67a4.chunk.js",
+    "main.js.map": "/iReallyForgetEverything/static/js/main.a8af67a4.chunk.js.map",
+    "runtime~main.js": "/iReallyForgetEverything/static/js/runtime~main.965d3a5e.js",
+    "runtime~main.js.map": "/iReallyForgetEverything/static/js/runtime~main.965d3a5e.js.map",
+    "static/js/2.2668f2aa.chunk.js": "/iReallyForgetEverything/static/js/2.2668f2aa.chunk.js",
+    "static/js/2.2668f2aa.chunk.js.map": "/iReallyForgetEverything/static/js/2.2668f2aa.chunk.js.map",
+    "index.html": "/iReallyForgetEverything/index.html",
+    "precache-manifest.86f820eb460ecc421cd1752068c7c782.js": "/iReallyForgetEverything/precache-manifest.86f820eb460ecc421cd1752068c7c782.js",
+    "service-worker.js": "/iReallyForgetEverything/service-worker.js"
   }
 }
